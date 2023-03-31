@@ -33,4 +33,3 @@ public class prog3 {
         return result;
     }
 }
-
