@@ -73,4 +73,3 @@ public class prog4 {
         return result;
     }
 }
-
